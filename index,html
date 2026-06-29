@@ -1,2 +1,33 @@
-<h1>Titulo do site</h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=<device-width>, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <header>   
+    <h1> Confere aí</h1>
+<nav>
+   <a href="#" >Inicio</a>
+</nav>
+    </header>
+    <main>
+        <h2>Descubra a Verdade Passando o Mouse</h2>
+        <article>
+<div>
+<div>
+<img src="https://www.google.com/imgres?q=Kaiserr&imgurl=https%3A%2F%2Fpreview.redd.it%2Fkaiser-is-the-final-boss-of-the-blue-lock-v0-78twgz9tjsve1.jpeg%3Fauto%3Dwebp%26s%3Df0e4056cf401c723bda8675d384793c95f22d7ef&imgrefurl=https%3A%2F%2Fwww.reddit.com%2Fr%2FBlueLock%2Fcomments%2F1k2vxw3%2Fkaiser_is_the_final_boss_of_the_blue_lock%2F%3Ftl%3Dpt-br&docid=uWbyLE72H2Ub2M&tbnid=xlrvjQ5S0t_0WM&vet=12ahUKEwjhoquXtqyVAxU4pJUCHZE2IbMQnPAOegQIQxAA..i&w=415&h=739&hcb=2&ved=2ahUKEwjhoquXtqyVAxU4pJUCHZE2IbMQnPAOegQIQxAA" alt ="Kaiser">
+<p>Se seu império desmoronar, o que você fará?</p>
+</div>
+<div>
+<img src="https://www.google.com/imgres?q=Kaiserr&imgurl=https%3A%2F%2Fpreview.redd.it%2Fkaiser-is-the-final-boss-of-the-blue-lock-v0-78twgz9tjsve1.jpeg%3Fauto%3Dwebp%26s%3Df0e4056cf401c723bda8675d384793c95f22d7ef&imgrefurl=https%3A%2F%2Fwww.reddit.com%2Fr%2FBlueLock%2Fcomments%2F1k2vxw3%2Fkaiser_is_the_final_boss_of_the_blue_lock%2F%3Ftl%3Dpt-br&docid=uWbyLE72H2Ub2M&tbnid=xlrvjQ5S0t_0WM&vet=12ahUKEwjhoquXtqyVAxU4pJUCHZE2IbMQnPAOegQIQxAA..i&w=415&h=739&hcb=2&ved=2ahUKEwjhoquXtqyVAxU4pJUCHZE2IbMQnPAOegQIQxAA" alt ="Kaiser">
+<p>Eu o abandoraria e recomeçaria um novo do zero</p>
+</div>
+</div>
+        </article>
+    </main>
+    <footer></footer>
+</body>
+</html>
 
